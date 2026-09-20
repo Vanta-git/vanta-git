@@ -3,7 +3,7 @@
 
 ## projects i own/help with
 
-- [Two-Jet](https://github.com/Vanta-git/Two-Jet) (ex-owner)
+- [Two-Jet](https://github.com/Vanta-git/Two-Jet) (owner)
 
 
 ## my webports
