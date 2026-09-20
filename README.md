@@ -8,5 +8,6 @@
 
 ## my webports
 - How To Date A Sleep Demon
+- [Cost-of-Trust](https://github.com/Vanta-git/Cost-of-Trust)
 
 check pinned repos
